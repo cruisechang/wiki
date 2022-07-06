@@ -14,7 +14,7 @@
 因此可以忽略。
 ```
 
-# Tme Complexity
+# Time Complexity
 ### `演算法的漸進時間複雜度(時間複雜度)`
 
 假設 f(n) 是問題規模 n 的某個函式
